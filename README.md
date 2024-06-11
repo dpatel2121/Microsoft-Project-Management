@@ -9,11 +9,11 @@
 **Snapshots of my project and reports are found below. You can download the Microsoft Project file to learn more about stats and reports in detail.**
 
 # Project Dashboards 
-- Highlevel Overview of the Project
+- Highlevel Timeline of the Project
 
 ![Highlevel timeline](https://github.com/dpatel2121/Microsoft-Project-Management/assets/154410616/55799aa3-5b03-4879-8c5b-0aae13a3a229)
 
-- Project Report 
+- Project Overview Report 
 ![Project Overview](https://github.com/dpatel2121/Microsoft-Project-Management/assets/154410616/f55cc302-4b4a-4a01-aff1-820165928edb)
 
 - Cost Report
